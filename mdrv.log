@@ -1,0 +1,84 @@
+Warning: Failed to post to 'http://127.0.0.1:8182/shunra/api/emulation/packetCaptureOnly', retcode=56.
+Warning: Failed to start NV emulation. Perhaps the NV server is not working, and therefore a NV report will not be generated.
+Virtual User Script started at: 3/7/2018 7:40:01 PM
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 12.55.0 for Windows 10; build 911 (Jul 24 2017 19:46:00)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36  	[MsgId: MMSG-26988]
+Run-Time Settings file: "C:\Users\Raphael Oscar\Documents\VuGen\Scripts\Test\\default.cfg"  	[MsgId: MMSG-27141]
+Warning: Failed to get NV emulation handle.
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Warning: Failed to get NV emulation handle.
+Action.c(4): Notify: Transaction "Launch Website" started.
+Action.c(4): Warning: Failed to get NV emulation handle.
+Action.c(6): web_url("Catalog.action;jsessionid=196A87211BA11C7B4259A9CBEBDF4CEC") started  	[MsgId: MMSG-26355]
+Action.c(6): Found resource "http://petstore.octoperf.com/css/jpetstore.css" in HTML "http://petstore.octoperf.com/actions/Catalog.action;jsessionid=196A87211BA11C7B4259A9CBEBDF4CEC"  	[MsgId: MMSG-26659]
+Action.c(6): Found resource "http://petstore.octoperf.com/images/logo-topbar.gif" in HTML "http://petstore.octoperf.com/actions/Catalog.action;jsessionid=196A87211BA11C7B4259A9CBEBDF4CEC"  	[MsgId: MMSG-26659]
+Action.c(6): Found resource "http://petstore.octoperf.com/images/cart.gif" in HTML "http://petstore.octoperf.com/actions/Catalog.action;jsessionid=196A87211BA11C7B4259A9CBEBDF4CEC"  	[MsgId: MMSG-26659]
+Action.c(6): Found resource "http://petstore.octoperf.com/images/separator.gif" in HTML "http://petstore.octoperf.com/actions/Catalog.action;jsessionid=196A87211BA11C7B4259A9CBEBDF4CEC"  	[MsgId: MMSG-26659]
+Action.c(6): Found resource "http://petstore.octoperf.com/images/sm_fish.gif" in HTML "http://petstore.octoperf.com/actions/Catalog.action;jsessionid=196A87211BA11C7B4259A9CBEBDF4CEC"  	[MsgId: MMSG-26659]
+Action.c(6): Found resource "http://petstore.octoperf.com/images/sm_dogs.gif" in HTML "http://petstore.octoperf.com/actions/Catalog.action;jsessionid=196A87211BA11C7B4259A9CBEBDF4CEC"  	[MsgId: MMSG-26659]
+Action.c(6): Found resource "http://petstore.octoperf.com/images/sm_reptiles.gif" in HTML "http://petstore.octoperf.com/actions/Catalog.action;jsessionid=196A87211BA11C7B4259A9CBEBDF4CEC"  	[MsgId: MMSG-26659]
+Action.c(6): Found resource "http://petstore.octoperf.com/images/sm_cats.gif" in HTML "http://petstore.octoperf.com/actions/Catalog.action;jsessionid=196A87211BA11C7B4259A9CBEBDF4CEC"  	[MsgId: MMSG-26659]
+Action.c(6): Found resource "http://petstore.octoperf.com/images/sm_birds.gif" in HTML "http://petstore.octoperf.com/actions/Catalog.action;jsessionid=196A87211BA11C7B4259A9CBEBDF4CEC"  	[MsgId: MMSG-26659]
+Action.c(6): Found resource "http://petstore.octoperf.com/images/fish_icon.gif" in HTML "http://petstore.octoperf.com/actions/Catalog.action;jsessionid=196A87211BA11C7B4259A9CBEBDF4CEC"  	[MsgId: MMSG-26659]
+Action.c(6): Found resource "http://petstore.octoperf.com/images/dogs_icon.gif" in HTML "http://petstore.octoperf.com/actions/Catalog.action;jsessionid=196A87211BA11C7B4259A9CBEBDF4CEC"  	[MsgId: MMSG-26659]
+Action.c(6): Found resource "http://petstore.octoperf.com/images/cats_icon.gif" in HTML "http://petstore.octoperf.com/actions/Catalog.action;jsessionid=196A87211BA11C7B4259A9CBEBDF4CEC"  	[MsgId: MMSG-26659]
+Action.c(6): Found resource "http://petstore.octoperf.com/images/reptiles_icon.gif" in HTML "http://petstore.octoperf.com/actions/Catalog.action;jsessionid=196A87211BA11C7B4259A9CBEBDF4CEC"  	[MsgId: MMSG-26659]
+Action.c(6): Found resource "http://petstore.octoperf.com/images/birds_icon.gif" in HTML "http://petstore.octoperf.com/actions/Catalog.action;jsessionid=196A87211BA11C7B4259A9CBEBDF4CEC"  	[MsgId: MMSG-26659]
+Action.c(6): Found resource "http://petstore.octoperf.com/images/splash.gif" in HTML "http://petstore.octoperf.com/actions/Catalog.action;jsessionid=196A87211BA11C7B4259A9CBEBDF4CEC"  	[MsgId: MMSG-26659]
+Action.c(6): web_url("Catalog.action;jsessionid=196A87211BA11C7B4259A9CBEBDF4CEC") was successful, 50581 body bytes, 3664 header bytes, 17 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(16): Notify: Transaction "Launch Website" ended with a "Pass" status (Duration: 1.0495 Wasted Time: 0.2100).
+Action.c(20): Notify: Transaction "Select Category" started.
+Action.c(20): Warning: Failed to get NV emulation handle.
+Action.c(22): web_url("sm_fish.gif") started  	[MsgId: MMSG-26355]
+Action.c(22): Resource "http://petstore.octoperf.com/css/jpetstore.css" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(22): Resource "http://petstore.octoperf.com/images/logo-topbar.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(22): Resource "http://petstore.octoperf.com/images/cart.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(22): Resource "http://petstore.octoperf.com/images/separator.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(22): Resource "http://petstore.octoperf.com/images/sm_fish.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(22): Resource "http://petstore.octoperf.com/images/sm_dogs.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(22): Resource "http://petstore.octoperf.com/images/sm_reptiles.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(22): Resource "http://petstore.octoperf.com/images/sm_cats.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(22): Resource "http://petstore.octoperf.com/images/sm_birds.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(22): web_url("sm_fish.gif") was successful, 1193 body bytes, 196 header bytes, 17 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(32): Notify: Transaction "Select Category" ended with a "Pass" status (Duration: 0.2108 Wasted Time: 0.0330).
+Action.c(36): Notify: Transaction "Select Product" started.
+Action.c(36): Warning: Failed to get NV emulation handle.
+Action.c(38): web_url("FI-SW-01") started  	[MsgId: MMSG-26355]
+Action.c(38): Resource "http://petstore.octoperf.com/css/jpetstore.css" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(38): Resource "http://petstore.octoperf.com/images/logo-topbar.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(38): Resource "http://petstore.octoperf.com/images/cart.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(38): Resource "http://petstore.octoperf.com/images/separator.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(38): Resource "http://petstore.octoperf.com/images/sm_fish.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(38): Resource "http://petstore.octoperf.com/images/sm_dogs.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(38): Resource "http://petstore.octoperf.com/images/sm_reptiles.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(38): Resource "http://petstore.octoperf.com/images/sm_cats.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(38): Resource "http://petstore.octoperf.com/images/sm_birds.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(38): web_url("FI-SW-01") was successful, 1272 body bytes, 196 header bytes, 17 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(48): Notify: Transaction "Select Product" ended with a "Pass" status (Duration: 0.2381 Wasted Time: 0.0373).
+Action.c(52): Notify: Transaction "Add to Cart" started.
+Action.c(52): Warning: Failed to get NV emulation handle.
+Action.c(54): web_url("Add to Cart") started  	[MsgId: MMSG-26355]
+Action.c(54): Resource "http://petstore.octoperf.com/css/jpetstore.css" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(54): Resource "http://petstore.octoperf.com/images/logo-topbar.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(54): Resource "http://petstore.octoperf.com/images/cart.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(54): Resource "http://petstore.octoperf.com/images/separator.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(54): Resource "http://petstore.octoperf.com/images/sm_fish.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(54): Resource "http://petstore.octoperf.com/images/sm_dogs.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(54): Resource "http://petstore.octoperf.com/images/sm_reptiles.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(54): Resource "http://petstore.octoperf.com/images/sm_cats.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(54): Resource "http://petstore.octoperf.com/images/sm_birds.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(54): web_url("Add to Cart") was successful, 1458 body bytes, 196 header bytes, 17 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(64): Notify: Transaction "Add to Cart" ended with a "Pass" status (Duration: 0.1989 Wasted Time: 0.0265).
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Warning: Failed to get NV emulation handle.
+Ending action vuser_end.
+Vuser Terminated.

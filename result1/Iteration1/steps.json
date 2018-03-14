@@ -1,0 +1,26 @@
+[
+    {
+        "stepId": "STEP1",
+        "stepName": "Url: Catalog.action;jsessionid=196A87211BA11C7B4259A9CBEBDF4CEC",
+        "infFile": "t1.inf",
+        "time": 1520469602775
+    },
+    {
+        "stepId": "STEP2",
+        "stepName": "Url: sm_fish.gif",
+        "infFile": "t2.inf",
+        "time": 1520469602991
+    },
+    {
+        "stepId": "STEP3",
+        "stepName": "Url: FI-SW-01",
+        "infFile": "t3.inf",
+        "time": 1520469603233
+    },
+    {
+        "stepId": "STEP4",
+        "stepName": "Url: Add to Cart",
+        "infFile": "t4.inf",
+        "time": 1520469603436
+    }
+]

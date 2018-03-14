@@ -1,0 +1,12 @@
+POST /actions/Account.action;jsessionid=196A87211BA11C7B4259A9CBEBDF4CEC HTTP/1.1
+Accept: text/html, application/xhtml+xml, image/jxr, */*
+Referer: http://petstore.octoperf.com/actions/Order.action;jsessionid=196A87211BA11C7B4259A9CBEBDF4CEC?newOrderForm=
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: petstore.octoperf.com
+Content-Length: 133
+Connection: Keep-Alive
+Cache-Control: no-cache
+

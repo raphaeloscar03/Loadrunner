@@ -1,0 +1,8 @@
+GET /actions/Catalog.action;jsessionid=196A87211BA11C7B4259A9CBEBDF4CEC HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US
+Accept: */*
+Connection: Keep-Alive
+Host: petstore.octoperf.com
+

@@ -1,0 +1,10 @@
+GET /actions/Cart.action;jsessionid=196A87211BA11C7B4259A9CBEBDF4CEC?addItemToCart=&workingItemId=EST-1 HTTP/1.1
+Referer: http://petstore.octoperf.com/actions/Catalog.action;jsessionid=196A87211BA11C7B4259A9CBEBDF4CEC?viewProduct=&productId=FI-SW-01
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US
+Accept: */*
+Connection: Keep-Alive
+Host: petstore.octoperf.com
+Cookie: JSESSIONID=DDCBCF5D1FECC6E0F6773CA119F34C9D
+

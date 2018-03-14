@@ -1,0 +1,22 @@
+[
+    {
+        "transactionName": "Launch Website",
+        "rawStartTime": 1520469601727,
+        "rawEndTime": 1520469602777
+    },
+    {
+        "transactionName": "Select Category",
+        "rawStartTime": 1520469602781,
+        "rawEndTime": 1520469602992
+    },
+    {
+        "transactionName": "Select Product",
+        "rawStartTime": 1520469602997,
+        "rawEndTime": 1520469603235
+    },
+    {
+        "transactionName": "Add to Cart",
+        "rawStartTime": 1520469603239,
+        "rawEndTime": 1520469603438
+    }
+]
